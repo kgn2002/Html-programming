@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>ASIET</title>
+</head>
+<body bgcolor="#FFFFF0">
+<center><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Feducationexclusive.com%2Fadi-shankara-institute-of-engineering-technology&psig=AOvVaw1r4OrkaO9VwkJ8NqYoSCP-&ust=1727326340756000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLC6xZ-m3YgDFQAAAAAdAAAAABAE" width="150" hieght="200">,</center>
+<h1>Adi Sankara Institute of Engineering and Technology</h1>
+<h3>Courses Offered </h3>
+<dl>
+<dt><a href="detail.html">MCA</a></dt>
+<dd>Master of Computer Application. Intakes of students is 60.</dd>
+<dt>MBA</dt>
+<dd>Master of Bussiness Administration</dd>
+<dt>BTech</dt>
+<dd>Bachelor of Technology</dd>
+</dl>
+
+ 
+
+
