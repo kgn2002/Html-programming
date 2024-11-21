@@ -1,27 +1,26 @@
 <html>
 <head>
 <title>Form</title>
-<link rel="stylesheet" href="C:\Users\Student\Documents\KGN\style.css">
+<link rel="stylesheet" href="C:\Users\Student\Documents\KGN\style2.css">
 </head>
 <body>
+<center> <img id="image1" src="C:\Users\Student\Documents\KGN\OIP.jfif" alt="Logo of College"></center>
+<h1>Application Form</h1>
+<div class="divcls">
 <table border="1">
 <tr>
 <th>
-<div>
 <label>First name</label></th>
-<td>
-<input type="text" name="name1" >
-</td></div></tr>
+<td><input type="text" name="name1" >
+</td></tr>
 <tr>
 <th>
-<div>
 <label>Last name</label></th><td>
 <input type="text" name="name2" >
-</div></td>
+</td>
 </tr>
 <tr>
 <th>
-<div>
 <label>Gender</label></th>
 <td><input type="radio" name="r1" >
 <label>Male</label>
@@ -29,22 +28,24 @@
 <label>Female</label>
 <input type="radio" name="r1" >
 <label>Other</label>
-</div></td></tr>
+</td></tr>
 <tr>
 <th>
-<div>
+<label>Date</label></th><td>
+<input type="date" name="date1" >
+</td>
+</tr>
+<tr>
+<th>
 <label>Address</label></th><td>
 <input type="textarea" size="50" name="address">
-</div></td></tr>
+</td></tr>
 <tr>
 <th>
-<div>
 <label>Email</label></th><td>
-<input type="text" name="email">
-</div></td></tr>
+<input type="email" name="email"></td></tr>
 <tr>
 <th>
-<div>
 <label>Qualification</label></th>
 <td><select>
 <option>Select Qualification</option><option>UG</option>
@@ -63,7 +64,16 @@
 <input type="checkbox"><label>Movie</label>
 <input type="checkbox"><label>Music</label></td></tr>
 <tr>
-<td><input type="button" value="submit">
-</table>
+<th>
+<label>Applying for</label></th>
+<td><select>
+<option>MCA</option>
+<option>MBA</option>
+<option>MTech</option>
+<option>BTech</option></td></tr>
+<tr>
+<td><input type="button" value="Reset"></td>
+<td><input type="button" value="Submit"></td></tr>
+</table></div>
 </body>
 </html>
