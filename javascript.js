@@ -1,0 +1,10 @@
+x=prompt("Enter a string");
+document.write(x);
+document.write("<br> Length:",x.length);
+document.write("<br> Uppercase:",x.toUpperCase());
+document.write("<br> Lowercase:",x.toLowerCase());
+document.write("<br> Substring:",x.slice(4,10));
+document.write("<br> Concatenate:",x+" and fun!");
+document.write("<br> Replace:",x.replace("awesome","funtastic"));
+document.write("<br> Index Occuerence of a:",x.indexOf("a"));
+document.write("<br> Last index Occuerence of s:",x.lastIndexOf("s"));

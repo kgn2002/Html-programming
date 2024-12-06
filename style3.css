@@ -1,0 +1,31 @@
+body{
+ background-color:#f1f8f0;
+}
+h1{
+text-align:center;
+}
+.divcls{
+	display:flex;
+	justify-content:center;
+}
+form{
+	display:flex;
+	justify-content:center;
+}
+table{
+width:60%;
+}
+td{
+text-align:left;
+padding:20px;
+font-family:"Sans-serif";
+font-size:18px;
+color:black;
+}
+th{
+text-align:right;
+padding:20px;
+font-family:"Sans-serif";
+font-size:px;
+color:black;
+}
