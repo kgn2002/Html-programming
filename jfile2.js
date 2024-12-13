@@ -8,6 +8,7 @@ function changecolor()
 	if(colorbox[i]==x)
 	{
 		alert("You won the game");
+		document.write(colorbox[i]);
 	}
 	else
 	{
